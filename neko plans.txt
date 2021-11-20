@@ -1,8 +1,8 @@
 SHIRO NEKO PLANS
 - Focus on learning Backend
-- Focus on mastering the Java programming languange, php, Go lang and various kinds FrameWork
+- Focus on mastering the Golang programming languange and others
 - Someday i will set up a Start Up
 - Create usefull programs
 - create many open source programs
 - Usefull for many people
-
+- Become a backend developer in japan and singapore
